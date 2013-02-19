@@ -10,6 +10,7 @@ public class Demo {
 		
 		System.out.println("Firefox is OK!");
 		System.out.println("IE is OK!");
+		System.out.println("Chrome is OK!");
 	}
 
 }
