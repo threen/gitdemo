@@ -9,7 +9,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Firefox is OK!");
-
+		System.out.println("IE is OK!");
 	}
 
 }
